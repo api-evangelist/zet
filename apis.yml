@@ -50,7 +50,7 @@ tags:
 - Credit
 - Credit Cards
 - Payments
-- Financial-Services
+- Financial Services
 - Consumer
 - India
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
 - Financial Services
 - Consumer
 - India
+- Financial-Services
 apis: []
 common:
 - type: Website
